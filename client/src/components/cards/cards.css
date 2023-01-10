@@ -1,0 +1,17 @@
+.card--container {
+    width: 250px;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+.card--name {
+    margin-top: 5px;
+}
+
+.card--container:hover {
+    background-color: aquamarine;
+}
